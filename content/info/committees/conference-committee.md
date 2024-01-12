@@ -82,6 +82,7 @@ permalink: /info/committees/conference-committee
 | **Arts Program Chairs** | |
 | Pedro Cruz | *Northeastern University* |
 | Rebecca Ruige Xu | *Syracuse University* |
+| Rewa Wright | *Queensland University of Technology* |
 |---
 | **Vis in Practice Chairs** | |
 | Ayan Biswas | |
